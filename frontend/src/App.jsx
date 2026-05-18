@@ -5,7 +5,7 @@ export const App =  ()=>{
   
     <div>
         <NavBar></NavBar>
-    <h1>ola</h1>
+    
     </div>
   )
 }
