@@ -50,7 +50,7 @@ const OPTIONS = [
     id: "correct",
     label: "Correção Automática",
     desc: "Corrige automaticamente erros ortográficos, gramaticais e de formatação, ajustando o documento para cumprir integralmente os requisitos das normas GOST aplicáveis.",
-    tags: ["Ortografia", "Gramática", "Margens & Fontes", "Espaçamento", "Estrutura GOST"],
+    tags: ["Margens & Fontes", "Espaçamento", "Estrutura GOST"],
     iconColor: "#fb923c",
     iconBg: "rgba(251,146,60,0.12)",
     icon: (
